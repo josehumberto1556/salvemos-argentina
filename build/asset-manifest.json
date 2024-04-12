@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.12e693a3.css",
+    "main.js": "/static/js/main.6bb375b6.js",
+    "static/js/787.d9accec4.chunk.js": "/static/js/787.d9accec4.chunk.js",
+    "static/media/logo1.png": "/static/media/logo1.fcf33c95a6e42b4821e2.png",
+    "static/media/argentina1.jpg": "/static/media/argentina1.bc875a27546d9d9769f5.jpg",
+    "static/media/argentina2.jpg": "/static/media/argentina2.699e57ba6d3d395f2dd0.jpg",
+    "static/media/quienes_somos.jpg": "/static/media/quienes_somos.ca9d34b17f0d8351ecea.jpg",
+    "static/media/pensamiento_economico.jpg": "/static/media/pensamiento_economico.63884fb8fb8c644748c4.jpg",
+    "static/media/pensamiento_educativo.jpg": "/static/media/pensamiento_educativo.480e16388416b654ecd7.jpg",
+    "static/media/binance.png": "/static/media/binance.dd4111d8c6a99a3d8ca4.png",
+    "static/media/pensamiento_politico.jpg": "/static/media/pensamiento_politico.88f7c6bb1f61fa6d2ce5.jpg",
+    "static/media/salvemos.jpg": "/static/media/salvemos.75a0da49b05e2105ab4f.jpg",
+    "index.html": "/index.html",
+    "main.12e693a3.css.map": "/static/css/main.12e693a3.css.map",
+    "main.6bb375b6.js.map": "/static/js/main.6bb375b6.js.map",
+    "787.d9accec4.chunk.js.map": "/static/js/787.d9accec4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12e693a3.css",
+    "static/js/main.6bb375b6.js"
+  ]
+}

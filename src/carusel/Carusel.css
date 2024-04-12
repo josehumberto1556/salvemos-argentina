@@ -1,0 +1,13 @@
+#carusel
+{
+	    background: linear-gradient(#051126 70%,#203560);  
+
+}
+
+@media only screen and (max-width: 600px) {
+  
+ #bajar{
+	 margin-top:80px;
+ }
+  
+}
